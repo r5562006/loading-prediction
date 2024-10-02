@@ -4,7 +4,7 @@ This project uses a decision tree algorithm to classify data. The script include
 
 ## Project Structure
 
-- `prediction.py`: The main script containing the decision tree algorithm.
+- `loading prediction.py`: The main script containing the decision tree algorithm.
 - `requirements.txt`: List of dependencies required to run the project.
 
 ## Installation
