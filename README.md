@@ -11,7 +11,7 @@ This project uses a decision tree algorithm to classify data. The script include
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/decision_tree_project.git
+    git clone https://github.com/yourusername/loading prediction_project.git
     cd decision_tree_project
     ```
 
@@ -31,6 +31,6 @@ This project uses a decision tree algorithm to classify data. The script include
 
 ## Usage
 
-Run the `prediction.py` script to create and use the decision tree:
+Run the `loading prediction.py` script to create and use the decision tree:
 ```sh
-python prediction.py
+python loading prediction.py
